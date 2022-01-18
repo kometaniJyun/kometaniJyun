@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <div>
   <a href="https://github.com/kometaniJyun">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kometaniJyun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
